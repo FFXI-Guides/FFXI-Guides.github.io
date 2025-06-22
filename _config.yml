@@ -1,8 +1,50 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Final Fantasy XI Guides
+description: A site hosting a collection of guides made by members of the Final Fantasy XI community for other community members.
+logo: "assets/images/global/header/logo.png"
 theme: just-the-docs
+color_scheme: dark
+search_enabled: true
 
-url: https://just-the-docs.github.io
+url: https://ffxi-guides.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Windower: https://windower.net/
+  Ashita: https://ashitaxi.com/
+  BG Wiki: https://bg-wiki.community
+  FFXIAH: https://ffxiah.com/
+
+collections:
+  general:
+    output: true
+  battle-content:
+    output: true
+  crafting:
+    output: true
+  windower:
+    output: true
+  ashita:
+    output: true
+  troubleshooting:
+    output: true
+  
+
+just_the_docs:
+  collections:
+    general:
+      name: General
+      nav_fold: false
+    battle-content:
+      name: Battle Content
+      nav_fold: false
+    crafting:
+      name: Crafting
+      nav_fold: false
+    windower:
+      name: Windower
+      nav_fold: false
+    ashita:
+      name: Ashita
+      nav_fold: false
+    troubleshooting:
+      name: Troubleshooting
+      nav_fold: false
