@@ -8,7 +8,7 @@ Leveling Synergy
 ========================================
 ###### Author: Fuhreddie @ Bahamut
 
-![Synergy Furnace](/resources/images/Gameplay/Crafting/Synergy/Leveling-Synergy/plSE4V7.png)
+![Synergy Furnace](assets/images/crafting/synergy/leveling-synergy/plSE4V7.png)
 
 This guide is mostly based on my own experience and mainly focused on the basics needed to get your synergy skill level to 80 as fast as possible.
 

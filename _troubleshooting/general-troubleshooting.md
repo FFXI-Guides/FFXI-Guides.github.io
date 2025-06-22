@@ -77,8 +77,8 @@ While the FFXI community has made a lot of guides for installing FFXI onto linux
 * Always try turning it off and on again first
 * Check your lutris settings!
     * These are the lutris settings which I currently (as of 2025-05-18) use (images below). You can install specific proton versions using `protonup-qt` from the Discover store on SteamOS, or by grabbing it from your package manager.
-    ![wine settings 1](/resources/images/Technical/General-Troubleshooting/4yqGkVg.png)
-    ![wine settings 2](/resources/images/Technical/General-Troubleshooting/Kcm7Et0.png)
+    ![wine settings 1](assets/images/troubleshooting/general-troubleshooting/4yqGkVg.png)
+    ![wine settings 2](assets/images/troubleshooting/general-troubleshooting/Kcm7Et0.png)
 * If nothing else works, backup your game files and reinstall the game
 
 ### Steam Deck specific tips
@@ -87,7 +87,7 @@ While the FFXI community has made a lot of guides for installing FFXI onto linux
     * Frequency limits enabled, min 2400 MHz, maximum 3500 MHz
     * No other settings have been changed
     * See image for settings in UI form
-    ![powertools settings](/resources/images/Technical/General-Troubleshooting/4xSt22y.png)
+    ![powertools settings](assets/images/troubleshooting/general-troubleshooting/4xSt22y.png)
 * If you hold down start button while in Desktop mode your controller will switch into gamepad mode (a notification shows in bottom right when the swap is done), this will let you use the gamepad as normal without accidentally triggering things in desktop mode.
 
 ## What about Macs?

@@ -7,7 +7,7 @@ Windower Quickstart Guide
 ========================================
 ###### Author: Daleterrence @ Bahamut
 
-![Windower Logo](/resources/images/Windower/Windower-Quickstart/Jpm6lkY.png)
+![Windower Logo](assets/images/windower/windower-quickstart/Jpm6lkY.png)
 
 **Windower** is a commonly used program by Final Fantasy XI players that provides extra functionality to the game via plugins and addons. It also provides a built-in config via its launcher to allow you to tweak settings normally only accessible via the Final Fantasy XI Config program, normally with much higher possible values than the official config program allows. It is strongly recommended you make use of Windower to have the best experience in Vana'diel.
 
