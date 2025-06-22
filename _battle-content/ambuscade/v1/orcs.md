@@ -19,11 +19,11 @@ This is a short guide to explain the mechanics of the V1 Orc Ambuscade. Overall 
 ## Bozzetto Crusader (**Boss**, PLD, All Difficulties)
 ### Abilities & Spells
 - **Invincible**: Used at 75%/50%/25% on Very Difficult, values may be different on other difficulties.
-- ![Important Mechanic!](assets/images/battle-content/ambuscade/v1/LHQ788w.png) **Aura Gimmick**: Gains a gold-red aura VFX every 15-20 seconds, granting all enemies significant damage reduction, and unlocking access to Manic Dance whilst it is active.
+- ![Important Mechanic!](/assets/images/battle-content/ambuscade/v1/LHQ788w.png) **Aura Gimmick**: Gains a gold-red aura VFX every 15-20 seconds, granting all enemies significant damage reduction, and unlocking access to Manic Dance whilst it is active.
     - This aura is removed by using a weaponskill when behind it. This weaponskill does not need to deal damage, only hit. 
         - Recommended to have a support or weaker DD be assigned to remove the aura as needed.
     - If it dies before the other enemies, they will **permanently** gain the damage reduction effect. Strongly advised to kill it after the other enemies. 
-- ![Important Mechanic!](assets/images/battle-content/ambuscade/v1/LHQ788w.png) **Manic Dance**: Only able to use when its aura is up, inflicts single-target Charm.
+- ![Important Mechanic!](/assets/images/battle-content/ambuscade/v1/LHQ788w.png) **Manic Dance**: Only able to use when its aura is up, inflicts single-target Charm.
 - **Veil of Chaos**: Slight knockback, inflicts AoE Amnesia, resets hate. 
 - **Veil of Disarray**: Only used under 25% HP, inflicts AoE Stun, resets hate.
 - **Berserker Dance**: Grants the enemy a Haste effect. Can be dispelled.
@@ -33,7 +33,7 @@ This is a short guide to explain the mechanics of the V1 Orc Ambuscade. Overall 
 
 ## Bozzetto Tamer (BST, Very Difficult)
 ### Abilities & Spells
-- ![Important Mechanic!](assets/images/battle-content/ambuscade/v1/LHQ788w.png) **Fanatic Dance**: Only uses if the **Bozzetto's Hecteyes** is killed prior to it. Inflicts AoE Charm.
+- ![Important Mechanic!](/assets/images/battle-content/ambuscade/v1/LHQ788w.png) **Fanatic Dance**: Only uses if the **Bozzetto's Hecteyes** is killed prior to it. Inflicts AoE Charm.
 - **Familiar**: Used if the **Bozzetto's Hecteyes** is still alive at about 50% HP. Both the **Bozzetto Tamer** and **Bozzetto's Hecteyes** take double damage whilst its active.
 - Assisted by **Bozzetto's Hecteyes**.
     - The hecteyes can cast **Paralyga**, **Silencega** and **Slowga** and has access to typical hecteye TP moves. Should be killed after the **Bozzetto Tamer** to prevent Charm.
