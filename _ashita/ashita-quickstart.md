@@ -120,9 +120,15 @@ If there's no link for the addon, then it is already included in the main Ashita
 * ahcolors
     * Changes the auction house listing colors for better readability
 * aspect
-    * Fixes aspect ratio automatically
+    * Fixes aspect ratio automatically based on screen resolution.
+* [auctioneer](https://github.com/loonsies/Auctioneer/releases/latest)
+    * An Auction House UI tool to make it easier to check AH prices etc. This has been checked by the devs and Thorny to make sure it is safe but read the disclaimer and use this one at your own risk.
+* [autohide](https://github.com/Lumariano/misc-ashitav4/tree/main/addons/autohide)
+    * Hides elements which are placed onto screen by Ashita during certain menus/states of the game.
+* autologin
+    * Automatically logs you into a specific character. Needs to be used as part of a startup script.
 * [balloon](https://github.com/onimitch/ffxi-balloon-ashitav4)
-    * adds FFXIV style cutscene dialog windows for NPC dialogue in quests
+    * Add FFXIV style cutscene dialog windows for NPC dialogue in quests
 * blucheck / blumon / blusets
     * Makes managing spells/spell sets for blue mage much easier
 * [cbind](https://github.com/ThornyFFXI/cBind)
@@ -140,12 +146,16 @@ If there's no link for the addon, then it is already included in the main Ashita
     * included in the [xitools](https://github.com/mousseng/xitools/) repository
 * drawdistance
     * Change the render draw distance with a text command
+* [Emotes](https://github.com/tirem/Emotes/)
+    * Places a button on screen which opens an Emote menu that can be navigated with your mouse (like in FF14).
 * enternity
     * It will press enter automatically during npc dialog/cutscenes
 * equipmon
     * Shows currently equipped items in a box you can move around the window, helpful when you are swapping gearsets for macros or using luashitacast
 * [find](https://github.com/Sippius/Ashita-v4-addons/tree/main/find)
     * A port of the `find` addon from Ashita V3.
+* filterscan
+    * filter out enemies from widescan list to make it easier to track specific monsters.
 * [Focuser](https://github.com/ThornyFFXI/Focuser)
     * Swap between different open FFXI windows using text commands. Requires configuration and an extra DLL included with the repo when setting up.
 * fps
@@ -164,10 +174,14 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Lets you type in japanese without needing to use the Japanese client.
 * itemwatch
     * This will let you track item counts ingame based on what is in your inventory
+* links
+    * Retrieves URLs from ingame chat window and creates a new window to enable user to open the links in a browser.
 * [Luashitacast](https://github.com/ThornyFFXI/LuAshitacast)
     * It's the gearswap addon for Ashita, written in lua. Very customisable, click [here](https://thornyffxi.github.io/LuAshitacast/) for link to the documentation on how to write lua gearswap scripts
 * macrofix
-    * removes marco bar delay when pressing ctrl or alt
+    * Removes the delay in showing macro bar window when pressing a macro bar key on your keyboard or controller.
+* [metrics](https://github.com/RaraProjects/metrics)
+    * Tracks metrics in combat, there's a lot here that can be tracked, but main things are DPS and Accuracy. Read the readme for more info, haven't used this one myself personally.
 * [minimap-helper](https://github.com/mousseng/xitools/tree/master/addons/minimap-helper)
     * A different minimap configuration tool
     * it's included in the [xitools](https://github.com/mousseng/xitools/) repository
@@ -175,6 +189,8 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Also a different minimap conifguration tool
 * minimapmon
     * Configure settings for the minimap plugin.
+* [mobdb](https://github.com/ThornyFFXI/mobdb)
+    * Show information for currently targeted mob/npc/player. Includes a simple and advanced mode, so can be helpful for tracking down Placeholder NM's in lottery pop farming.
 * [namecolors](https://discord.com/channels/264673946257850368/723259779971022979/1234972923580645550)
     * Allows you to change colors of nameplates for basically every type of PC/NPC in the game, helpful for accesibility purposes.
 * [nocombat](https://github.com/ThornyFFXI/MiscAshita4/tree/main/addons/nocombat)
@@ -220,6 +236,8 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Track recast timers. This will not hide when addons like autohide are used, so I tend to enable it as/when I need it.
 * [trustcheck](https://github.com/Lumariano/trustcheck)
     * Outputs a file with what trusts you have/don't have, handy for the 86 Trust RoE requirment
+* [trustme](https://github.com/loonsies/trustme)
+    * UI for summoning/managing trust sets. Let's you queue trust calls and will tell you what trusts you do/don't have.
 * watchdog
     * Let's you track basically anything in widescan with text commands
 * [wheel](https://github.com/mousseng/xitools/tree/master/addons/wheel)
@@ -232,6 +250,8 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Another UI replacement (like HXUI)
     * Personally I've had a few issues with this UI replacement personally so I swapped to HXUI, but I prefer the look of this one
     * This repository also includes a looot of other addons which may be useful that I've described above as well.
+* [whereisdi](https://github.com/loonsies/whereisdi)
+    * It is [https://whereisdi.com](https://whereisdi.com) in addon form, replicates functionality of the site ingame. For the truly lazy among us (or for those who cannot alt tab out of the game).
 
 ## What addons should you *not* run on Retail?
 
@@ -255,6 +275,8 @@ Also I'm not going to link to these directly, since they are not necessary for p
     * Enables mog house functionality in any zone
 * peekaboo
     * Forces all entities the client obtains data for to be visible.
+* Scenthound
+    * Addon that can help with tracking monsters that spawn. 
 
 ## Troubleshooting
 * My game crashes randomly / has a black screen when loading into a zone while using Ashita, why?
