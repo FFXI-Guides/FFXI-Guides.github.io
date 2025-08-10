@@ -13,7 +13,7 @@ Additionally, this guide was made using a Steam Deck, but you can follow similar
 
 1. Download atom0s d3d8 proxy from here: [⁠Ashita⁠ RELEASE Proxy v1.1.0.0](https://discord.com/channels/264673946257850368/1127340838918291606/1127340838918291606), you will need to join the [Ashita Discord](https://discord.gg/ashita) in order to download this.
 
-2. Open up dolphin / file explorer of your choice and navigate to your downloads folder, extract these 2 zip files into separate folders,
+2. Open up dolphin / file explorer of your choice and navigate to your downloads folder, extract the zip files into it's own folder.
 
 3. Go to the FFXI prefix folder, which can be done by this can be done by right clicking the ffxi setup you use in lutris and selecting "Browse files". Navigate to PlayOnlineViewer folder, within the window that opens.
 
