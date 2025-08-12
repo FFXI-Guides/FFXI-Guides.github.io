@@ -30,7 +30,7 @@ This will be an eternal work in progress but hopefully can act as a useful FAQ f
             * times
             * verdana
 * *I can hear PlayOnline music but I can't see the window!*
-    * Here is a [guide](https://discord.com/channels/1313507659051175947/1321477432699650172) I wrote that talks about how to do this in Linux, but you can do the same in Windows from the registry editor also. I will eventually move this out of discord.
+    * Here is a [guide](https://ffxi-guides.github.io/troubleshooting/playonline-linux-window-problem.html) I wrote that talks about how to do this in Linux, but you can do the same in Windows from the registry editor also.
 * *I randomly zone into a black screen!*
     * This is because the game has run out of memory, because by default the game can only use up to 2GB RAM maximum, due to a limitation with how most applications worked in much older versions of Windows.
     * Apply the [Large Address Aware patch](https://github.com/ThornyFFXI/LargeAddressAware) to your FFXI install. You can do this by downloading the exe file from the [releases](https://github.com/ThornyFFXI/LargeAddressAware/releases) and then selecting the `pol.exe` file in your `PlayOnlineViewer` install folder on your PC. This is usually located at `C:\Program Files (x86)\SquareEnix\PlayOnlineViewer` if you installed FFXI to it's default location.
@@ -71,7 +71,7 @@ While the FFXI community has made a lot of guides for installing FFXI onto linux
     * TODO: Checking things related to wine prefix
 * For Windower installation, following this [guide](https://docs.windower.net/linux/) works best, and it is pretty simple to follow.
 * For Ashita, I tend to use a combination of two guides, This [guide](https://bin.68degrees.no/?7c46d54826d65033#8HC1jBACSY1834jiqAu77AS87uxw4mkaE6UTk2XBMjwc) made by Ridge and this [guide](https://gist.github.com/atom0s/e6ddbb94408baba43e6fed5bee18ea9c) by atom0s (one of the devs of Ashita). I will provide less context for this one since installing Ashita is much more technical and generally if you are using Ashita, you are expected to have some technical knowhow anyways.
-* If you want to set up atom0s proxy on Steam Deck, I wrote a [guide](https://discord.com/channels/1313507659051175947/1317561969502588989/1317563296030658590) here, that I will eventually update to not be stuck in a discord thread.
+* If you want to set up atom0s proxy on Steam Deck, I wrote a [guide](https://ffxi-guides.github.io/troubleshooting/setting-up-atomos-proxy.html) here.
 
 ### My game just will not launch!
 * Always try turning it off and on again first
