@@ -4,6 +4,8 @@ layout: post
 parent: Dynamis - Divergence
 ---
 
+*This information is applicable to all Divergence zones*
+
 ## Party Comp
 * Tank
 * WHM
@@ -14,10 +16,17 @@ parent: Dynamis - Divergence
 
 Wave 3 can be cleared with a well geared group of 6, ex. R25+ Nyame on RDM/BRD/COR/DD.  This is not mentioned as a hard requirement - just a guideline on what your overall group should look like strength-wise.  Even that has some wiggle room as I believe the W3 boss has a 30 minute enrage timer and the boss takes about 20 minutes with that group.  You can bring in up to 18 people and in fact most groups I've done Dynamis with will have one "carry group" with their best buffers/DD and then a tank party/offparty.  
 
-If you have multiple parties, try to have a COR + BRD + healer in each one.
+If you have multiple parties, try to have a COR + BRD + healer in each one.  
 
-#### Helpful (but not required)
-**GEO**: Having a GEO and geo-malaise will enable hybrids to shine.  If you have a GEO, you can do Hot Shot, Tachi: Jinpu, Blade: Chi, etc. which can easily hit for capped damage with enough ranks in your Nyame.  Even if your setup doesn't have strong hybrids available, Geo-Frailty is strong and Indi-Torpor can help a lot with the evasiveness of Wave 3.
+It can be helpful to have one person calling targets (probably the tank but it can be anyone who is comfortable) for circles or boss adds.  
+
+This is a long event and focus may wane.  Don't be afraid to make friendly callouts if songs will wear (don't want to lose that 5th song) or rolls have been off for a while or reraise is missing (and don't take it personally if someone gently reminds you, it happens to all of us).  The run will go best if everyone is comfortable calling out buffs/debuffs/changes - if that one person who's noticed the 5th song is about to wear is afraid to say something, then everyone is worse off for it.    
+
+
+
+
+### Helpful (but not required)
+**GEO**: Having a GEO and Geo-Malaise (even as nerfed as it is in here!) will enable hybrids to shine.  If you have a GEO, you can do Hot Shot, Tachi: Jinpu, Blade: Chi, etc. which can easily hit for capped damage with enough ranks in your Nyame.  Even if your setup doesn't have strong hybrids available, Geo-Frailty or Geo-Fury are strong and Indi-Torpor can help a lot with the evasiveness of Wave 3.
 
 **BST**: Generous Arthur is incredible. If the only thing you did in the entire run was run up to the wave 3 boss and Purulent Ooze you will have done 2M damage.  Corrosive Ooze is also -33%  attack down/defense down and keeping that up on wave2/wave3 boss makes a huge difference.
 
@@ -86,7 +95,7 @@ How strong you are will determine how strong your party is.  Clarion Call at the
 Wave 1/2 - Honor March/MinV/MinIV/MinIII/Aria(if you have it)  
 Wave 3 - Honor March/MinV/MinIV/Madrigal/Aria(if you have it)  
 
-If you don't have Aria feel free to throw in another Minuet or Madrigal or even a Minne.
+If you don't have Aria feel free to throw in another Minuet or Madrigal or even a Minne.  Keep an eye on everyone's accuracy and throw in that extra Madrigal if it looks dire.  
 
 When the pulls come in, Horde Lullaby and keep things controlled.  You can then DD away!  Make sure you have good hybrid/DT sets and can hit the accuracy requirements for Wave 3 (1600+).  If you're going to Savage Blade make sure there aren't too many other Savage Bladers.
 

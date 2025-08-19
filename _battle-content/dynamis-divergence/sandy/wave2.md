@@ -8,7 +8,10 @@ parent: Dynamis - San d'Oria (D)
 
 ## Wave 2
 
-* Pull statues on BLUE ![Blue](/assets/images/battle-content/dynamis-divergence/20px-snowflake.png) eyes if your alliance does primarily magic damage (Leaden Salute, Tachi: Jinpu, etc.)
+![Map Link from BG WIKI](https://www.bg-wiki.com/images/thumb/c/c9/Dynamis-San-d%27Oria-%28D%29-despuesV2.jpg/600px-Dynamis-San-d%27Oria-%28D%29-despuesV2.jpg?20171206115009)  
+*Map sourced from BG WIKI*
+
+* Pull statues on BLUE ![Blue](/assets/images/battle-content/dynamis-divergence/20px-snowflake.png) eyes if your alliance does primarily magic damage (Leaden Salute)
 
 * Pull statues on GREEN ![Green](/assets/images/battle-content/dynamis-divergence/20px-moon.png) eyes if your alliance does primarily physical damage (Savage Blade) (MOST LIKELY SCENARIO)
 
@@ -16,7 +19,7 @@ parent: Dynamis - San d'Oria (D)
 
 * Statues of NO COLOR (the statue does not switch between BLUE/GREEN) will spawn Aurix (loot piñata NM) as well as the normal mobs.
 
-Make your way to the Mog House area to where Halphas awaits you.  You can grab a couple mobs and have your COR TP on them to Leaden Salute all the statues in your way or you can just pull normally and kill.  You don't need to clear both sides of the alley where it splits, either way is fine.  
+Make your way East to the Mog House area to where Halphas awaits you.  You can grab a couple mobs and have your COR TP on them to Leaden Salute all the statues in your way or you can just pull normally and kill.  You don't need to clear both sides of the alley where it splits, either way is fine.  
 
 You want to make sure the fountain is clear.  These are mostly NMs so it may be faster/easier for your COR to just Leaden Salute one-shot these statues.
 
@@ -36,31 +39,30 @@ Under 50% he gets an aura and more awful moves.  He can also 2hr and a mighty st
 
 ### Role Specific Notes  
 
-#### Tank  
+#### **Tank**  
 Keep an eye out for Full-On Tackle as you will need to work hard to get hate back quickly before he counters your friends to death.  If you are a PLD, Majesty cures go a long way when he's spamming AOEs.
 
-#### WHM
+#### **WHM**
 Keep an eye out for the HP down / defense down moves in the first half.  Try to keep everyone topped off.  If you see him turn, be prepared for heavy curing until the tank gets it back.  
 
-#### RDM
+#### **RDM**
 Full debuff him and keep an eye out for his many buff moves.  
 
 Howl / Armblock / Shriek / Bilateral shield / Counterstance - dispel ASAP.  (although I don’t actually remember if you can dispel counterstance)  
 
 If things go south, back off and apply Gravity so you can recover.  
 
-#### COR
+#### **COR**
 Boost dia with light shot then look out for the above buffs to dark shot.  If you end up needing to Gravity kite you can still shoot him and Leaden Salute / Hot Shot him down (only if everyone is out of the way to recover).  Use Wild Card after everyone else uses their 2HRs.  
 
-#### BRD
+#### **BRD**
 Same as above, you can finale these buffs.  Sing Min3 first so you can overwrite it with Madrigal when you start Wave 3.  
 
-#### DD
+#### **DD**
 If he turns be sure to turn yourself and high jump / super jump.  The hate resets can be aggressive so just be reactive so you don’t die.  Be sure to fan out so if it does turn to you, only some of you get countered.  
 
 Whoever is doing Armor Break / Shell Crusher / Tachi: Ageha ensure it is applied and kept on the whole time.  
 
+Help your WHM out by using Panaceas when appropriate.
 
 
-![Map Link from BG WIKI](https://www.bg-wiki.com/images/thumb/c/c9/Dynamis-San-d%27Oria-%28D%29-despuesV2.jpg/600px-Dynamis-San-d%27Oria-%28D%29-despuesV2.jpg?20171206115009)  
-Map sourced from BG WIKI
