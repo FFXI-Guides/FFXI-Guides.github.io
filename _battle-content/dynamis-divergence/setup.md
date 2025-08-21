@@ -3,7 +3,7 @@ title: Setup Requirements
 layout: post
 parent: Dynamis - Divergence
 ---
-
+###### Author: Aydin
 *This information is applicable to all Divergence zones*
 
 ## Party Comp
