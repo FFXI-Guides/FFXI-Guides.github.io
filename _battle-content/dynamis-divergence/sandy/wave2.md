@@ -3,7 +3,7 @@ title: Wave 2
 layout: post
 parent: Dynamis - San d'Oria (D)
 ---
-
+###### Author: Aydin
 *This guide assumes you do not want to farm and want to just get to the Wave 3 boss quickly*
 
 ## Wave 2
