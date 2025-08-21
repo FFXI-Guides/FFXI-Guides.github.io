@@ -3,7 +3,7 @@ title: Wave 3
 layout: post
 parent: Dynamis - San d'Oria (D)
 ---
-
+###### Author: Aydin
 *You'll want to have at least an hour at this point to have enough time for everything.*  
 
 ## Wave 3
