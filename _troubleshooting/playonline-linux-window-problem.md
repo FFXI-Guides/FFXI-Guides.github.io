@@ -17,7 +17,7 @@ This is specifically for copies of FFXI which are managed via Lutris. Similar st
 ![Registry Editor is open to the following key: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\PlayOnlineUS\SquareEnix\PlayOnlineViewer\Settings](/assets/images/troubleshooting/playonline-linux-window-problem/QnNN2UY.png)
 4. Right click on the value and click modify
     a. In order to write the values as human-readable nubmers, you can change the base from hexadecimal to decimal as shown in the below images.
-![Popup Window for editing registry value. The value name is WindowH, the value data is 1042 (this is a typo, is should be 480) and the selected option inside base is Decimal.](/assets/images/troubleshooting/playonline-linux-window-problem/T5VHCu6.png)
+![Popup Window for editing registry value. The value name is WindowH, the value data is 1042 (this is a typo, is should be 480) and the selected option inside base is Decimal.](/assets/images/troubleshooting/playonline-linux-window-problem/tIT7Dyh.png)
 5. Change the following registry values to the corresponding *decimal* values:
     a. WindowX to 0
     b. WindowY to 0
