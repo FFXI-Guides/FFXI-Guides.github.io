@@ -1,7 +1,7 @@
 ---
 title: Technical Troubleshooting
 layout: post
-nav_order: 10
+nav_order: 12
 ---
 # Technical Troubleshooting
 

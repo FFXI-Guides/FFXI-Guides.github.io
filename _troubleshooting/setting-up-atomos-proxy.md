@@ -1,7 +1,7 @@
 ---
 title: Setting up atom0s D3D8 proxy on Linux/Steam Deck for FFXI
 layout: post
-nav_order: 12
+nav_order: 14
 ---
 ###### Author: Arieh @ Bahamut
 

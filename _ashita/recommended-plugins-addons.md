@@ -1,10 +1,10 @@
 ---
 title: Recommended Ashita Plugins and Addons
 layout: post
-nav_order: 13
+nav_order: 11
 ---
 ###### Author: Arieh @ Bahamut, with suggestions from AzureSkies and Reverie LS's
-<sub>Unsure on what Ashita is or how to set it up? Click [here](/guides/ashita/ashita-quickstart.md) to learn more!</sub>
+<sub>Unsure on what Ashita is or how to set it up? Click [here](/ashita/ashita-quickstart.html) to learn more!</sub>
 
 This guide provides a list of available plugins and addons for the addon launcher Ashita v4 used to extend functionality for Final Fantasy XI. This guide does not cover multiboxing or private server-specific addons in any amount of detail.
 

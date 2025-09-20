@@ -1,8 +1,13 @@
+---
+title: Recommended Windower Plugins and Addons
+layout: post
+nav_order: 9
+---
 Recommended Windower Plugins and Addons
 ========================================
 ###### Author: Daleterrence @ Bahamut
 
-<sub>Unsure on what Windower is or how to set it up? Click [here](/Guides/Windower/Windower-Quickstart.md)!</sub>
+<sub>Unsure on what Windower is or how to set it up? Click [here](/windower/windower-quickstart.html)!</sub>
 ### Introduction
 
 This guide provides a list of available plugins and addons for the Windower program for Final Fantasy XI. This is a list of plugins and addons I have found helpful or basically required for playing Final Fantasy XI in the modern age. Please keep in mind this guide is aimed at the retail version of Final Fantasy XI, as it is generally recommended you use [Ashita](https://ashitaxi.com/) for private servers.
