@@ -43,7 +43,7 @@ When your game is stuttering, always try in vanilla FFXI (without windower/ashit
 [BG-Wiki](https://www.bg-wiki.com/ffxi/Graphics_Enhancement_Guide#FPS_Enhancements) has a guide which can help
 
 * Try using dgvoodoo2 if you are on Windows
-    * On Linux, using dgvoodoo will mean your game will either not launch if the dgvoodoo version is newer than 2.82 or will eventually crash due to a memory leak
+    * On Linux, using dgvoodoo will mean your game will either not launch if the dgvoodoo version is newer than 2.8.2 or will eventually crash due to a memory leak
 * Try using atom0s proxy if you are on linux - [downloadable](https://discord.com/channels/264673946257850368/1127340838918291606/1132803135463759882) from the Ashita discord
 * Turn down supersampling / mipmapping
     * These graphical settings can cause more lag if they are enabled or set to high.
@@ -70,7 +70,7 @@ While the FFXI community has made a lot of guides for installing FFXI onto linux
 * Installing via [Lutris](https://lutris.net/games/final-fantasy-xi-online/) is the best way to go, and if you have Steam linked to Lutris you can install it via Steam, but I would not recommend this since Steam downloads a _much_ older version by default. Personally I would recommend the following Lutris install script if you want a vanilla install: `Full (US) version` or `Full (EU) Version`
     * TODO: Checking things related to wine prefix
 * For Windower installation, following this [guide](https://docs.windower.net/linux/) works best, and it is pretty simple to follow.
-* For Ashita, I tend to use a combination of two guides, This [guide](https://bin.68degrees.no/?7c46d54826d65033#8HC1jBACSY1834jiqAu77AS87uxw4mkaE6UTk2XBMjwc) made by Ridge and this [guide](https://gist.github.com/atom0s/e6ddbb94408baba43e6fed5bee18ea9c) by atom0s (one of the devs of Ashita). I will provide less context for this one since installing Ashita is much more technical and generally if you are using Ashita, you are expected to have some technical knowhow anyways.
+* For Ashita, I tend to use a combination of two guides, This [guide](https://bin.68degrees.no/?7c46d54826d65033#8HC1jBACSY1834jiqAu77AS87uxw4mkaE6UTk2XBMjwc) made by Ridge and this [guide](https://gist.github.com/atom0s/e6ddbb94408baba43e6fed5bee18ea9c) by atom0s (one of the devs of Ashita). I will provide less context for this one since installing Ashita is much more technical and generally if you are using Ashita, you require some level of technical knowledge in order to get it up and running.
 * If you want to set up atom0s proxy on Steam Deck, I wrote a [guide](https://ffxi-guides.github.io/troubleshooting/setting-up-atomos-proxy.html) here.
 
 ### My game just will not launch!
