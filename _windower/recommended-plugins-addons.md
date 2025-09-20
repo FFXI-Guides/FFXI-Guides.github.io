@@ -1,3 +1,8 @@
+---
+title: Recommended Windower Plugins and Addons
+layout: post
+nav_order: 9
+---
 Recommended Windower Plugins and Addons
 ========================================
 ###### Author: Daleterrence @ Bahamut

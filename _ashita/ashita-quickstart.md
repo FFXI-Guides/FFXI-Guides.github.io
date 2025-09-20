@@ -1,7 +1,7 @@
 ---
 title: Ashita Quickstart
 layout: post
-nav_order: 9
+nav_order: 10
 ---
 # Quick Ashita Guide
 

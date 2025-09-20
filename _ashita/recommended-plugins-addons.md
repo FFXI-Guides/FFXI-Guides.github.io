@@ -1,7 +1,7 @@
 ---
 title: Recommended Ashita Plugins and Addons
 layout: post
-nav_order: 13
+nav_order: 11
 ---
 ###### Author: Arieh @ Bahamut, with suggestions from AzureSkies and Reverie LS's
 <sub>Unsure on what Ashita is or how to set it up? Click [here](/guides/ashita/ashita-quickstart.md) to learn more!</sub>
