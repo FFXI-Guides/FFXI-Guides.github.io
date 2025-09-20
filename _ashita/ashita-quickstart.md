@@ -5,7 +5,7 @@ nav_order: 9
 ---
 # Quick Ashita Guide
 
-###### Author: Arieh @ Bahamut, suggestions added from Eierkuhle @ Bahamut
+###### Author: Arieh @ Bahamut
 
 ## What is Ashita?
 

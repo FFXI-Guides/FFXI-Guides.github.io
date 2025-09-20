@@ -3,7 +3,7 @@ title: Recommended Ashita Plugins and Addons
 layout: post
 nav_order: 13
 ---
-###### Author: Arieh @ Bahamut
+###### Author: Arieh @ Bahamut, with suggestions from AzureSkies and Reverie LS's
 <sub>Unsure on what Ashita is or how to set it up? Click [here](/guides/ashita/ashita-quickstart.md) to learn more!</sub>
 
 This guide provides a list of available plugins and addons for the addon launcher Ashita v4 used to extend functionality for Final Fantasy XI. This guide does not cover multiboxing or private server-specific addons in any amount of detail.
@@ -64,6 +64,8 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Hides elements which are placed onto screen by Ashita during certain menus/states of the game.
 * autologin
     * Automatically logs you into a specific character. Needs to be used as part of a startup script.
+* [autotrans](https://github.com/ThornyFFXI/AutoTrans)
+    * Will watch for anything written in [[ ]] brackets and then look for (and use) the in game Auto Translate equivalent. Only supports English input currently.
 * [balloon](https://github.com/onimitch/ffxi-balloon-ashitav4)
     * Add FFXIV style cutscene dialog windows for NPC dialogue in quests
 * blucheck / blumon / blusets
@@ -226,4 +228,9 @@ Also I'm not going to link to these directly, since they are not necessary for p
 * peekaboo
     * Forces all entities the client obtains data for to be visible.
 * Scenthound
-    * Addon that can help with tracking monsters that spawn. 
+    * Addon that can help with tracking monsters that spawn. This isn't inherently risky by itself, but enabling the Packet Search function in this addon puts your account at a much higher risk than using the other features in it. 
+
+### Shoutouts and Thanks
+* Eierkuhle @ Bahamut for the explanation of Sequencer/PacketFlow plugins + fix for the `chains` plugin.
+* arkervorhat @ Bahamut for Smart.LAC
+* Raithewall @ Bahamut, Kyane @ Bahamut, Ellisine @ Bahamut for addon suggestions
