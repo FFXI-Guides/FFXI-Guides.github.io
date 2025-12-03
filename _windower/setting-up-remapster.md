@@ -3,6 +3,8 @@ title: How to setup Remapster for Windower
 layout: post
 nav_order: 12
 ---
+Setting up Remapster for Windower
+========================================
 ###### Author: Daleterrence @ Bahamut
 
 [Remapster](https://remapster.com/) is a project to greatly improve the quality and readability of FFXI's in-game maps, whilst preserving the feel of those maps. This guide will teach you how to install and use the project, for Windower. This particular version uses the 1024 x 1024 maps, but there are 2048 x 2048 [files available](https://remapster.com/downloads/) if you would prefer an even higher resolution. (the HQ versions may introduce lag to opening and closing maps)

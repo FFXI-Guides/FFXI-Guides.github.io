@@ -8,7 +8,7 @@ nav_order: 11
 
 This guide provides a list of available plugins and addons for the addon launcher Ashita v4 used to extend functionality for Final Fantasy XI. This guide does not cover multiboxing or private server-specific addons in any amount of detail.
 
-###### A ⭐ by the plugin's name denotes that a plugin is *strongly* recommended or very helpful. 
+###### A ⭐ by the plugin's name denotes that a plugin is *strongly* recommended or very helpful.
 
 ## What plugins exist?
 
@@ -68,6 +68,8 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Will watch for anything written in [[ ]] brackets and then look for (and use) the in game Auto Translate equivalent. Only supports English input currently.
 * [balloon](https://github.com/onimitch/ffxi-balloon-ashitav4)
     * Add FFXIV style cutscene dialog windows for NPC dialogue in quests
+* [boussole](https://github.com/loonsies/boussole)
+    * Map replacement addon for Ashita v4 with useful overlays and simple customization
 * blucheck / blumon / blusets
     * Makes managing spells/spell sets for blue mage much easier
 * [cbind](https://github.com/ThornyFFXI/cBind)
@@ -79,7 +81,7 @@ If there's no link for the addon, then it is already included in the main Ashita
 * checker ⭐
     * Gives more information when you check information for a mob
 * cleancs ⭐
-    * Removes elements drawn by ashita from cutscenes. This will not remove all elements, only elements from addons/plugins which use ImgUI specifically. 
+    * Removes elements drawn by ashita from cutscenes. This will not remove all elements, only elements from addons/plugins which use ImgUI specifically.
 * [colure](https://github.com/mousseng/xitools/tree/master/addons/colure)
     * A way to quickly select/cast indi/geo spells with a mouse UI
     * included in the [xitools](https://github.com/mousseng/xitools/) repository
@@ -101,7 +103,7 @@ If there's no link for the addon, then it is already included in the main Ashita
     * Configure the fps limit from here, and also show/hide the fps on screen
 * gearfinder
     * Helps you find gear based on specific criteria, can also look in storage slips
-* [HXUI](https://github.com/onimitch/HXUI/releases/tag/onimitch4)
+* [XIUI (formerly HXUI)](https://github.com/tirem/xiui) ⭐
     * Full UI replacement, [xitools](https://github.com/mousseng/xitools) is also ok but hasn't been updated in a while
 * invmon
     * Show remaining slots for any inventories you specify in a positionable window
@@ -145,6 +147,8 @@ If there's no link for the addon, then it is already included in the main Ashita
     * A UI tool to automate the daily trading of items to Oseem for better augments.
 * [partybuffs](https://github.com/ThornyFFXI/MiscAshita4/tree/main/addons/partybuffs) ⭐
     * Show party buffs and distance to party member next to the main party window.
+* petinfo
+    * Displays information about the players current pet in a draggable window.
 * [points](https://github.com/Shinzaku/Points)
     * Adds a very customisable UI bar to your screen which can help track lots of objectives/timers and also XP/CP/JP gain rates per hour.
 * [porter](https://github.com/ThornyFFXI/porter)

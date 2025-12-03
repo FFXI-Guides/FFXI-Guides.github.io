@@ -21,4 +21,4 @@ Windower Quickstart Guide
 6. When you're done changing settings, click the back button at the top of the window.
 7. Click the pin icon at the bottom of the Profiles tab, to place a shortcut on your desktop that will skip the Windower launcher, if desired.
 
-That's it! You're ready to move onto the [Recommended Plugins and Addons Guide](/windower/recommended-plugin-addons.html).
+That's it! You're ready to move onto the [Recommended Plugins and Addons Guide](/windower/recommended-plugins-addons.html).
