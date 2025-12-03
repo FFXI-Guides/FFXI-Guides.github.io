@@ -3,6 +3,8 @@ title: Recommended Windower Plugins and Addons
 layout: post
 nav_order: 9
 ---
+Windower Recommended Plugins & Addons
+========================================
 ###### Author: Daleterrence @ Bahamut
 
 <sub>Unsure on what Windower is or how to set it up? Click [here](/windower/windower-quickstart.html)!</sub>
