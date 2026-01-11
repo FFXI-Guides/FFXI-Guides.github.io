@@ -116,4 +116,9 @@ There are some hidden plugins available on the launcher, made visible by inputti
     - Allows you to see where the current Domain Invasion boss is spawning, or about to spawn when typing //di, saves you trying to get into Unity chat if you're in a busy Unity. Relies on crowdsourced data from other users of the addon, so the more people that have it, the more accurate it is!
 * [Balloon](https://github.com/StarlitGhost/Balloon) 
     - Displays NPC dialogue in a speech balloon in the middle of your screen, like FFXIV does. (Shared by @Palmira, thank you!)
-
+* [Reraise](https://github.com/Daleterrence/Reraise)
+    - Helps you keep up Reraise. This addon will use your best available Reraise spell or item based on a priority system.
+* [MuffinCounter](https://github.com/Daleterrence/MuffinCounter)
+    - Tracks gallimaufry (also known in the community as muffins) collected during your Sortie runs.
+* [SpamBlock](https://github.com/Daleterrence/SpamBlock) ⭐
+    - Spam filter which makes yell chat usable.
