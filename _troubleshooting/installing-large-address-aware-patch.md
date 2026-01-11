@@ -21,13 +21,13 @@ By default, FFXI can only utilise about 2 GB of your RAM, due to limitations imp
 It's worth mentioning that FFXI still cannot use all of that 4 GB and it will crash out around 3.2 GB for other engine-related issues.
 
 ## Installation Steps
-1) Download the LargeAddressAware patch from [here](https://github.com/ThornyFFXI/LargeAddressAware/releases/), you only need to donwload the .exe file. Put that .exe somewhere safe on your PC, as you'll only need to download it once. I recommend putting it in your Windower or Ashita folder.
-2) Run the .exe as an administrator and click `Browse`. 
+1. Download the LargeAddressAware patch from [here](https://github.com/ThornyFFXI/LargeAddressAware/releases/), you only need to donwload the .exe file. Put that .exe somewhere safe on your PC, as you'll only need to download it once. I recommend putting it in your Windower or Ashita folder.
+2. Run the .exe as an administrator and click `Browse`. 
 ![](/assets/images/troubleshooting/installing-large-address-aware-patch/runasadmin.png)
 ![](/assets/images/troubleshooting/installing-large-address-aware-patch/initialwindow.png)
-3) Navigate to your PlayOnline folder, by default this is `C:\Program Files (x86)\PlayOnline\SquareEnix\PlayOnlineViewer`, click on `pol.exe` within the folder and then click `Patch`.
+3. Navigate to your PlayOnline folder, by default this is `C:\Program Files (x86)\PlayOnline\SquareEnix\PlayOnlineViewer`, click on `pol.exe` within the folder and then click `Patch`.
 ![](/assets/images/troubleshooting/installing-large-address-aware-patch/browse.png) 
-4) It should say "Patch succeeded!". If it doesn't, make sure you ran the patcher as admin and that the game is not currently open.
-5) You're done! 
+4. It should say "Patch succeeded!". If it doesn't, make sure you ran the patcher as admin and that the game is not currently open.
+5. You're done! 
 
 You'll need to do this again any time the game's .exe is updated, which is most monthly patches. 
